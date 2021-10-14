@@ -1,4 +1,4 @@
-package _21
+package m
 
 func Test(f func()){
 	f()
